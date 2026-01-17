@@ -15,5 +15,5 @@ How to Run Locally:
 2. Open index.html in any web browser.
 
 Developer:
-Your Name
-Registration Number: XXXXX
+Aneeqa Nasir
+Registration Number: BSCS25101021
