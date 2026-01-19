@@ -19,4 +19,4 @@ Aneeqa Nasir
 Registration Number: BSCS25101021
 
 ##Live Website
-https://aneeqanasir840.github.io/portfolio/
+ https://aneeqanasir840-svg.github.io/portfolio-website/
